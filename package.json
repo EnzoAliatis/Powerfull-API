@@ -1,0 +1,17 @@
+{
+  "name": "PowerfullApi",
+  "version": "1.0.0",
+  "description": "how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --ext js"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "good": "^8.1.1",
+    "good-console": "^7.1.0",
+    "hapi": "^17.6.0",
+    "nodemon": "^1.18.4"
+  }
+}
